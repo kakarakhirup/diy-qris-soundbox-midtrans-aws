@@ -45,7 +45,8 @@ Di MicroSD, pastikan isi file `MP3` langsung tanpa ada folder dan file audio dii
 - `0018.mp3` : "juta"
 - `0019.mp3` : "rupiah"
 - `0020.mp3` : "pembayaran diterima" atau "sfx: cha-ching"
-[![Download Audio](https://img.shields.io/badge/Download-Audio_Voicebank-blue?style=for-the-badge&logo=github)](https://github.com/kakarakhirup/diy-qris-soundbox-midtrans-aws/raw/main/voicebank.rar)<br>
+
+[![Download Audio](https://img.shields.io/badge/Download-Audio_Voicebank-blue?style=for-the-badge&logo=github)](https://github.com/kakarakhirup/diy-qris-soundbox-midtrans-aws/raw/main/voicebank.rar)
 *audio wajib diawali dengan `0001` (4 digit) dengan format `.mp3`*
 
 ## Library Arduino yang Dibutuhkan
