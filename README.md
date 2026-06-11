@@ -22,6 +22,8 @@ Proyek SoundBox QRIS menggunakan ESP32. Alat ini akan mengeluarkan output suara 
 - DFPlayer VCC -> Pin 5V ESP32
 - DFPlayer RX -> GPIO17
 - DFPlayer TX -> GPIO16
+- DFPlayer SPK_1 -> Speaker +
+- DFPlayer SPK_2 -> Speaker -
 
 ## Struktur File MicroSD (DFPlayer)
 Di MicroSD, pastikan isi file `MP3` langsung tanpa ada folder dan file audio diisi dengan urutan berikut:
