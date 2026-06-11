@@ -24,6 +24,7 @@ Proyek SoundBox QRIS menggunakan ESP32. Alat ini akan mengeluarkan output suara 
 - DFPlayer TX -> GPIO16
 
 ## Struktur File MicroSD (DFPlayer)
+[![Download Audio](https://img.shields.io/badge/Download-Audio_Voicebank-blue?style=for-the-badge&logo=github)](https://github.com/kakarakhirup/diy-qris-soundbox-midtrans-aws/raw/main/voicebank.rar)
 Di MicroSD, pastikan isi file `MP3` langsung tanpa ada folder dan file audio diisi dengan urutan berikut:
 - `0001.mp3` : "satu"
 - `0002.mp3` : "dua"
@@ -45,6 +46,8 @@ Di MicroSD, pastikan isi file `MP3` langsung tanpa ada folder dan file audio dii
 - `0018.mp3` : "juta"
 - `0019.mp3` : "rupiah"
 - `0020.mp3` : "pembayaran diterima" atau "sfx: cha-ching"
+
+*audio wajib diawali dengan `0001` (4 digit) dengan format `.mp3`*
 
 ## Library Arduino yang Dibutuhkan
 - `PubSubClient` by Nick O'Leary
