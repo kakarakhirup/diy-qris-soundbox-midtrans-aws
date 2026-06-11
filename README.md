@@ -3,7 +3,7 @@ Proyek SoundBox QRIS menggunakan ESP32. Alat ini akan mengeluarkan output suara 
 
 ## Fitur
 - Pembacaan nominal Rupiah hingga jutaan.
-- Koneksi aman menggunakan AWS IoT Core (MQTT over TLS 1.2).
+- Koneksi menggunakan AWS IoT Core.
 - Tampilan LCD 16x2 untuk indikator status dan nominal.
 - Kompatibel dengan Webhook Midtrans.
 
