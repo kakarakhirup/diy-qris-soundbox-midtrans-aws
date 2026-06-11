@@ -14,6 +14,8 @@ Proyek SoundBox QRIS menggunakan ESP32. Alat ini akan mengeluarkan output suara 
 - **LCD 16x2 dengan Modul I2C Backpack**
 
 ## Schematic
+<img width="1373" height="895" alt="schematic" src="https://github.com/user-attachments/assets/d44bc4ce-185f-4138-9c31-7d152da81b95" />
+
 - LCD 16x2 VCC -> Pin 5V ESP32
 - LCD 16x2 SDA -> GPIO21
 - LCD 16x2 SCL -> GPIO22
